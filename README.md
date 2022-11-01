@@ -1,7 +1,7 @@
 This is an official Pytorch implementation of the approach proposed in:
 > Han Peng, Ge Li, Yunfei Zhao, Zhi Jin *“Rethinking Positional Encoding in Tree Transformer for Code Representation”* 
 
-which appeared at **EMNLP 2022**[[Paper Link]()][[Poster]()][[Slides]()].
+which appeared at **EMNLP 2022**[[Paper Link]()][[Poster](https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2022-11-01/o023umd/emnlp.pdf)].
 
 
 
